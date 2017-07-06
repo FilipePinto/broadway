@@ -28,6 +28,10 @@ h3 {
   font-weight: bold;
 }
 
-p .process {
+.process p, .top p {
   font-size: 14px;
+}
+
+.top h3 {
+  color: white;
 }
